@@ -14,13 +14,13 @@ Uma *query* permite buscar, transformar e organizar dados.
 
 ### 2️⃣ Importar dados  
 Aprendi a importar dados de diversas fontes, como CSV, Excel e bases online.  
-![Importar dados](https://media.giphy.com/media/3o6ZsX3ZfJ2k4A6cIW/giphy.gif)
+![Importar dados](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHh6OGtraHAzcGhuaXh6a2k2eThxMm5kcjJzd3l1NTU1MGdhcTVhYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYc2axjCJNsCXyE/giphy.gif)
 
 ---
 
 ### 3️⃣ Renomeando e propriedades  
 Ajustei nomes de colunas e configurei propriedades para melhor organização.  
-![Renomear](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif)
+![Renomear](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajE1Mmc2OXRkdnJxc2R1bWV3MWxhcDN5ODR1YXhkZnpidWUxM3VyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
 
 ---
 
