@@ -32,55 +32,55 @@ Alterei a fonte de dados sem perder transformações aplicadas.
 
 ### 5️⃣ Removendo linhas e colunas  
 Eliminei dados desnecessários para deixar a base mais limpa.  
-![Remover linhas](https://media.giphy.com/media/l0MYNPrUO6zHnA3Qc/giphy.gif)
+![Remover linhas](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHd5N2hnOWVqems4N2FsMjV0bmQ2eDB0ZmpvbHk5ZnJvdXJiaHFlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jFjB868yjnR3T6MSw3/giphy.gif)
 
 ---
 
 ### 6️⃣ Filtrando informações  
 Usei filtros para mostrar apenas dados relevantes.  
-![Filtrar](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif)
+![Filtrar](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczE4Z2c1OWdva2JzYTQ3ZGxqZHJrc3I4Zzl0czk1azliMm1rMHlyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif)
 
 ---
 
 ### 7️⃣ Exibindo detalhes nas colunas  
 Visualizei dados detalhados em cada coluna para análises mais profundas.  
-![Detalhes](https://media.giphy.com/media/3o6ZsX3ZfJ2k4A6cIW/giphy.gif)
+![Detalhes](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2lwYTA5bnplbHRjcTZpM29ycTR6Mzh5ZHBhMTNuZnE1ZjRvNjE0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GJTOPhiW3Yv4ahon1H/giphy.gif)
 
 ---
 
 ### 8️⃣ Acrescentando consultas  
 Criei novas consultas a partir de dados existentes, aumentando a flexibilidade.  
-![Nova consulta](https://media.giphy.com/media/3o6ZsX3ZfJ2k4A6cIW/giphy.gif)
+![Nova consulta](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2plaHJyeXRwOXUybWlqMGdhYnZkM2ZxaW1pMmU0Mm1qdHhzdTNocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dvYBb2yATF8fnuMziN/giphy.gif)
 
 ---
 
 ### 9️⃣ Substituindo dados  
 Corrigi valores incorretos ou inconsistentes na base.  
-![Substituir](https://media.giphy.com/media/3o6ZsX3ZfJ2k4A6cIW/giphy.gif)
+![Substituir](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3gwajl2YjV5aXVtanM1MmpsdmRyOHhubGc3bGZraDMxeW5zZG4wYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1WJjf5zyecZtvcPrlj/giphy.gif)
 
 ---
 
 ### 🔟 Verificando tipos de dados  
 Confirmei se cada coluna tinha o tipo correto (texto, número, data, etc.).  
-![Tipos de dados](https://media.giphy.com/media/3o6ZsX3ZfJ2k4A6cIW/giphy.gif)
+![Tipos de dados](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3I3cmdnc3Z0Y205Y2ZtY3A2bGhtMjhmaDBkNTI1a3NqbWV4cGJvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tQ4Ppppmjy3jVS7H2Y/giphy.gif)
 
 ---
 
 ### 1️⃣1️⃣ Dividindo colunas  
 Separei informações de uma coluna em múltiplas colunas.  
-![Dividir colunas](https://media.giphy.com/media/3o6ZsX3ZfJ2k4A6cIW/giphy.gif)
+![Dividir colunas](https://tenor.com/pt-BR/view/simpsons-column-gif-14687737)
 
 ---
 
 ### 1️⃣2️⃣ Agrupando valores  
 Agrupei dados para análises resumidas e consolidadas.  
-![Agrupar](https://media.giphy.com/media/3o6ZsX3ZfJ2k4A6cIW/giphy.gif)
+![Agrupar](https://tenor.com/pt-BR/view/kowalsky-do-it-let's-do-it-plan-gif-12872865174534645045)
 
 ---
 
 ### 1️⃣3️⃣ Aplicando os dados  
 Salvei todas as transformações para começar a criar visualizações.  
-![Aplicar](https://media.giphy.com/media/3o6ZsX3ZfJ2k4A6cIW/giphy.gif)
+![Aplicar](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG55Yjh1Nmh6bmYxNHF6dGhsOGlpbXI3Z2dtMDdseW0zY3BuOXF0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/whhCAcuxtAXcrQhHTk/giphy.gif)
 
 ---
 
