@@ -68,13 +68,13 @@ Confirmei se cada coluna tinha o tipo correto (texto, número, data, etc.).
 
 ### 1️⃣1️⃣ Dividindo colunas  
 Separei informações de uma coluna em múltiplas colunas.  
-![Dividir colunas](https://tenor.com/pt-BR/view/simpsons-column-gif-14687737)
+![Dividir colunas](https://tenor.com/pt-BR/view/simpsons-column-gif-14687737.gif)
 
 ---
 
 ### 1️⃣2️⃣ Agrupando valores  
 Agrupei dados para análises resumidas e consolidadas.  
-![Agrupar](https://tenor.com/pt-BR/view/kowalsky-do-it-let's-do-it-plan-gif-12872865174534645045)
+![Agrupar](https://tenor.com/pt-BR/view/kowalsky-do-it-let's-do-it-plan-gif-12872865174534645045.gif)
 
 ---
 
