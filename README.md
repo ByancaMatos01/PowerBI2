@@ -8,7 +8,7 @@ No **Dia 2** do meu aprendizado em **Power BI**, o foco foi a **transformação 
 
 ### 1️⃣ O que é uma Query?  
 Uma *query* permite buscar, transformar e organizar dados.  
-![Query](https://media.giphy.com/media/l0HlRmJq9ljZz9nza/giphy.gif)
+![Query](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHQ3N216YWc3aTJlYTRqMThlOXpwNXNqNnU0MHI0eGNxb2dyZWtpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xFky92BaCqNPkfyfSx/giphy.gif)
 
 ---
 
