@@ -68,7 +68,7 @@ Confirmei se cada coluna tinha o tipo correto (texto, número, data, etc.).
 
 ### 1️⃣1️⃣ Dividindo colunas  
 Separei informações de uma coluna em múltiplas colunas.  
-![Dividir colunas](https://tenor.com/pt-BR/view/simpsons-column-gif-14687737.gif)
+![Dividir colunas](https://tenor.com/9M69.gif)
 
 ---
 
